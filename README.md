@@ -9,6 +9,6 @@ The original script and more detailed usage information can be found here: http:
 
 #### Basic Usage: 
 
-Copy to ~/Library/Services
-Assign a keyboard shortcut in system settings.
-In XCode, select a method signature and press the assigned keyboard shortcut.
+1. Copy to ~/Library/Services
+2. Assign a keyboard shortcut in system settings.
+3. In XCode, select a method signature and press the assigned keyboard shortcut.
